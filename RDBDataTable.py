@@ -3,13 +3,7 @@
 #########################################################
 #
 #
-# YOU HAVE TO IMPLEMENT SOME METHODS FROM THIS FILE, BUT MOST OF THE FILE
-# IS JUST THE SOLUTION TO THE HW1 RDBDataTable SECTION.
-#
-# LOOK FOR --TO IMPLEMENT-- TO FIND THE FUNCTIONS/METHODS YOU NEED TO IMPLEMENT.
-#
-# ALSO, SEE THINGS OF THE FORM -- THANK ALY AND ARA --
-#
+# 
 #########################################################
 
 # Pandas is only used to pretty print the table contents.
@@ -96,7 +90,7 @@ class RDBDataTable():
 
 
         """
-        You should implement these methods. See the implementation templates below.
+        
         """
         self.get_primary_key_columns()
         self.get_row_count()
@@ -300,7 +294,7 @@ class RDBDataTable():
 
     ####################################################################################################
     #
-    # THE METHODS BELOW WERE GOING TO BE PART OF HW2, BUT ...
+    # 
     #
     #
     # -- THANK ALY AND ARA --
@@ -309,22 +303,17 @@ class RDBDataTable():
     pass
 
     def _get_key_map(self, target_name):
-        # -- THANK ALY AND ARA --
-        # Aly and Ara told me to get rid of this requirement or they would be unhappy.
         #
         pass
 
 
     def navigate_path(self, pk, target_name, query_template, fields):
-        # -- THANK ALY AND ARA --
-        # Aly and Ara told me to get rid of this requirement or they would be unhappy.
-        #
+        # 
         pass
 
 
     def navigate_path_and_key(self, pk, target_name, tk, fields):
-        # -- THANK ALY AND ARA --
-        # Aly and Ara told me to get rid of this requirement or they would be unhappy.
+        # 
         #
         pass
 
