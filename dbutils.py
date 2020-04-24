@@ -5,8 +5,7 @@ logger = logging.getLogger()
 #########################################
 #
 #
-# YOU DO NOT HAVE TO CHANGE THIS FILE IN ANY WAY. THIS IS TO MAKE YOUR IMPLEMENTATION SIMPLER.
-#
+# 
 #
 #
 #########################################
