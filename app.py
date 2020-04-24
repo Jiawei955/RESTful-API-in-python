@@ -1,7 +1,7 @@
 
 ####################################################################################################
 #
-# DO NOT WORRY ABOUT ANY OF THE STUFF IN THIS SECTION. THIS HELPS YOU IMPLEMENT.
+# 
 #
 #
 
@@ -174,7 +174,7 @@ def demo(parameter):
 
 ####################################################################################################
 #
-# YOU HAVE TO COMPLETE THE IMPLEMENTATION OF THE FUNCTIONS BELOW.
+# 
 #
 #
 @application.route("/api/databases", methods=["GET"])
